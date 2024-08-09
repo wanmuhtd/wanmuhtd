@@ -29,7 +29,6 @@ I'm an undergraduate computer science student passionate about developing innova
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
 
 <br />
 <br />
