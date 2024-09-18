@@ -13,7 +13,7 @@ I'm an undergraduate computer science student passionate about developing innova
 
 ## My GitHub Stats
 
-![@wanmuhtd GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![@wanmuhtd GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanmuhtd&show_icons=true&theme=radical)
 
 ## Top Languages
 
