@@ -35,7 +35,7 @@ I'm an undergraduate computer science student passionate about developing innova
 
 ## Projects
 
-### [Stunt-Rem-CRUDProyekPBOStunting v 0.0.2]([https://github.com/yourusername/project1](https://github.com/wanmuhtd/Stunt-Rem-CRUDProyekPBOStunting))
+### [Stunt-Rem-CRUDProyekPBOStunting]([https://github.com/yourusername/project1](https://github.com/wanmuhtd/Stunt-Rem-CRUDProyekPBOStunting))
 A CRUD application named "Stunt Rem" for preventing stunting, developed as part of a GEMASTIK and college project..
 
 
