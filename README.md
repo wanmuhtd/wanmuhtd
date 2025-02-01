@@ -34,8 +34,10 @@ I'm an undergraduate computer science student passionate about developing innova
 <br />
 
 ## Projects
+### [SnackCheck: Your Guide to Healthier Snack Choices](https://github.com/SnackCheck-C242-PS242)
+an innovative Android app designed to empower Indonesian consumers to make healthier food choices, particularly when it comes to packaged snacks. The app provides users with an easy way to assess the healthiness of products by analyzing their nutritional data. The app uses machine learning to deliver data-driven insights, allowing users to make informed decisions about what they eat, ultimately contributing to healthier lifestyles and reducing diet-related health issues in Indonesia.
 
-### [Stunt-Rem-CRUDProyekPBOStunting]([https://github.com/yourusername/project1](https://github.com/wanmuhtd/Stunt-Rem-CRUDProyekPBOStunting))
+### [Stunt-Rem-CRUDProyekPBOStunting](https://github.com/wanmuhtd/Stunt-Rem-CRUDProyekPBOStunting)
 A CRUD application named "Stunt Rem" for preventing stunting, developed as part of a GEMASTIK and college project..
 
 
