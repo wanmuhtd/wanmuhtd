@@ -2,14 +2,13 @@
 
 ## About Me
 
-I'm an undergraduate computer science student passionate about developing innovative solutions to real-world problems. I enjoy coding, learning new technologies, and collaborating on exciting projects.
-1 also got interest on how to make a good art or design.
+I'm a **Computer Science Graduate** from Universitas Negeri Semarang, passionate about building impactful software and AI-driven solutions. With a solid foundation in **Machine Learning** and **Full-stack Development**, I bridge the gap between technical logic and aesthetic design.
 
-- 🔭 I’m currently working on:  College projects and practice projects to enhance my skills
-- 🌱 I’m currently learning: Software development and AI/ML
-- 💬 Ask me about: UI design and object-oriented programming (OOP) or anything you want to discuss with me
-- 📫 How to reach me: You can connect with me through the platforms below
-- ⚡ Fun fact: I love art
+- 🎓 **Recent Achievement:** Graduated with a focus on Machine Learning and Informatics Engineering.
+- 🚀 **Currently Focusing on:** Developing production-ready AI models and modern web applications.
+- 🎨 **Creative Side:** I have a keen interest in UI/UX design and digital art—I believe good code should be paired with great design.
+- 💬 **Ask me about:** ML (Ensemble Learning), Laravel, Next.js, and UI Design.
+- ⚡ **Fun fact:** I love exploring the intersection of technology and art.
 
 ## My GitHub Stats
 
@@ -21,25 +20,31 @@ I'm an undergraduate computer science student passionate about developing innova
 
 ## Languages and Tools
 
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="Kotlin" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" alt="Figma" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="30" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="30" />
+</p>
 
-<br />
-<br />
+## Featured Projects
 
-## Projects
-### [SnackCheck: Your Guide to Healthier Snack Choices](https://github.com/SnackCheck-C242-PS242)
-an innovative Android app designed to empower Indonesian consumers to make healthier food choices, particularly when it comes to packaged snacks. The app provides users with an easy way to assess the healthiness of products by analyzing their nutritional data. The app uses machine learning to deliver data-driven insights, allowing users to make informed decisions about what they eat, ultimately contributing to healthier lifestyles and reducing diet-related health issues in Indonesia.
+### 🧠 [Diabetes Risk Classification with Stacking Ensemble](https://github.com/wanmuhtd)
+My thesis project focused on improving diabetes risk classification accuracy using a **Stacking Ensemble Model** with compensated features. It demonstrates my ability to handle complex data preprocessing and advanced ML architectures.
 
-### [Stunt-Rem-CRUDProyekPBOStunting](https://github.com/wanmuhtd/Stunt-Rem-CRUDProyekPBOStunting)
-A CRUD application named "Stunt Rem" for preventing stunting, developed as part of a GEMASTIK and college project..
+### 🥗 [SnackCheck: Your Guide to Healthier Snack Choices](https://github.com/SnackCheck-C242-PS242)
+An innovative Android app designed to empower consumers to make healthier food choices. The app uses machine learning to analyze nutritional data and deliver data-driven insights.
 
+### 👶 [Stunt-Rem: Stunting Prevention System](https://github.com/wanmuhtd/Stunt-Rem-CRUDProyekPBOStunting)
+A CRUD application for preventing stunting, developed as part of a GEMASTIK and college project, demonstrating full-cycle application development.
 
 ## Connect with Me
 
